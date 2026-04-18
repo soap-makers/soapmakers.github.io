@@ -1,15 +1,15 @@
-Contributing to [Your Project Name]
+Contributing to SOAPMAKERS
 
-Thank you for considering contributing to [Your Project Name]! As the sole contributor to this project, I welcome any contributions, feedback, or suggestions that can help improve the project and make it more valuable to its users.
+Thank you for considering contributing to SOAPMAKERS! As the sole contributor to this project, I welcome any contributions, feedback, or suggestions that can help improve the project and make it more valuable to its users.
 
 How to Contribute
 
-To contribute to [Your Project Name], you can follow these steps:
+To contribute to SOAPMAKERS, you can follow these steps:
 
 	1.	Fork the Repository: Start by forking the project repository to your own GitHub account.
 	2.	Clone the Repository: Clone your forked repository to your local machine using Git.
 
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/ryanjede/smsoapco.git
 
 
 	3.	Make Changes: Make your desired changes to the project code or documentation. You can add new features, fix bugs, improve existing code, or update documentation as needed.
@@ -38,8 +38,8 @@ To maintain consistency and readability in the project codebase, please adhere t
 
 Reporting Issues
 
-If you encounter any bugs, issues, or problems while using [Your Project Name], please report them by opening an issue on the project’s GitHub repository. Provide detailed information about the issue, including steps to reproduce it, expected behavior, and any relevant screenshots or error messages.
+If you encounter any bugs, issues, or problems while using SOAPMAKERS, please report them by opening an issue on the project’s GitHub repository. Provide detailed information about the issue, including steps to reproduce it, expected behavior, and any relevant screenshots or error messages.
 
 Contact
 
-If you have any questions, suggestions, or concerns about contributing to [Your Project Name], feel free to reach out to me via email or through the project’s GitHub repository.
+If you have any questions, suggestions, or concerns about contributing to SOAPMAKERS, feel free to reach out to me via email or through the project’s GitHub repository.
